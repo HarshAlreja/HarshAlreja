@@ -104,17 +104,7 @@ Backend infrastructure for **college's annual gathering 'Srujan'** (500+ attende
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshAlreja&theme=dark&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HarshAlreja Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshAlreja&theme=darkhub&row=1" alt="Trophy" />
-</div>
-
----
 
 ## 🤝 Open Source
 
@@ -176,6 +166,4 @@ I'm open to:
 
 <div align="center">
   <sub>Made with ❤️ by Harsh Alreja</sub>
-  <br>
-  <img src="https://forthebadge.com/images/badges/if-youreadthisyouawardme.png" alt="Award" />
 </div>
