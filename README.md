@@ -2,7 +2,7 @@
 
 **Backend Developer** building real-time systems | **Product Management enthusiast** creating user-centric tech solutions
 
-📍 **Nashik, Maharashtra, India**  
+📍 **Pune, Maharashtra, India**  
 🚀 **Open to work** | Backend Lead & Product Aspiring  
 🎤 **Event host & choreographer** beyond coding
 
