@@ -37,12 +37,6 @@ API monitoring & real-time metrics visualization for backend systems
 - 🛠 Built with: Grafana, Python, REST API integration
 - 📊 **Impact:** Reduced API debugging time by 40%
 
-### 🏕️ **Srujan Event Backend System** 
-Backend infrastructure for **college's annual gathering 'Srujan'** (500+ attendees)
--  Managed registration, schedules, and live event coordination
--  Real-time updates for event participants
--  Anchored for 3+ days in a row
-
 ---
 
 ## 🌱 I'm Currently Learning
